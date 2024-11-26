@@ -1,0 +1,14 @@
+body {
+  background-image: url(img/nam.jpg);
+  background-size: cover; /* Đảm bảo ảnh nền bao phủ toàn bộ nền */
+  background-repeat: no-repeat; /* Tránh lặp lại ảnh nền */
+  background-position: center center; /* Căn giữa ảnh nền */
+  margin: 0; /* Loại bỏ lề mặc định */
+  padding: 0; /* Loại bỏ đệm mặc định */
+  height: 100vh; /* Đảm bảo chiều cao của trang bằng 100% chiều cao màn hình */
+}
+
+h1 {
+  font-style: oblique;
+  text-align: center;
+}
